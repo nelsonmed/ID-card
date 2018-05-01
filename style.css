@@ -1,0 +1,35 @@
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+ }
+ 
+ #idCard {
+    border: 5px solid black;
+    border-radius: 20px;
+    height: 14em;
+    width: 25em;
+    background-color: beige;
+    font-family: 'Cairo', sans-serif;
+    }
+ body {
+     background-color: lightblue;
+ }
+ #postFullName{
+     font-weight: bold;
+     font-size: 25px;
+     text-align: center;
+ }
+ h1{
+     text-align: center;
+     
+ }
+ form{
+     text-align: center;
+ }
+ div{
+     margin: 100px 100px 100px 475px;
+     padding-bottom: 15px;
+     padding-left: 5px;
+ }
+ 
